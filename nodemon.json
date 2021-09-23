@@ -6,7 +6,7 @@
     ],
     "verbose": true,
     "watch": [
-        "./views/pug/*",
+        "./views/pug/index",
         "./server.js",
         "./auth.js",
         "./routes.js",
